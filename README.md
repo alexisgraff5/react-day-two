@@ -1,6 +1,11 @@
 #Day Two of React For DevMountain
 ##Things to cover
 - Webpack
+	Where do you look?
+		entry: {main:}
+	Where do you start?
+
+	How = module
 - Basic React Review
 - Component Life-Cycle
 - Asynchronous Data
@@ -21,7 +26,7 @@
 	- Basically anything you could ever need
 - Config
 	- Entry
-	- Ouput
+	- Ouput -Where does it go
 	- Loaders
 
 ###Basic React Review
@@ -39,6 +44,8 @@
 	- `<Component prop={value} />`
 	- this.props
 
+###Class Extends
+
 ###Component Life-Cycle
 - Mounting
 	- componentWillMount
@@ -51,7 +58,7 @@
 ###Small JS Context Review
 - Function.prototype.bind
 	- Context
-	- Currying
+	- Partial Application
 
 ###Asynchronous Data
 - jQuery?
